@@ -53,18 +53,18 @@ img
 
 }
 
-/* .slider .images img.active
+.slider .images img.active
 {
 	width: 100%;
 	height: 450px;
 	object-fit: cover;
 	object-position: center;
-} */
+}
 
-/* .slider .images img:not(.active)
+.slider .images img:not(.active)
 {
 	display: none;
-} */
+}
 
 .slider .controls
 {
